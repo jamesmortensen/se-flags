@@ -10,6 +10,8 @@
 // @include        http://serverfault.com/*
 // @include        http://*.superuser.com/*
 // @include        http://superuser.com/*
+// @include        http://*.askubuntu.com/*
+// @include        http://askubuntu.com/*
 // @include        http://*.stackexchange.com/*
 // @include        http://mathoverflow.net/*
 // @exclude        http://area51.stackexchange.com/*
