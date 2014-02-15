@@ -10,12 +10,15 @@
 // @include        http://serverfault.com/*
 // @include        http://*.superuser.com/*
 // @include        http://superuser.com/*
+// @include        http://*.askubuntu.com/*
+// @include        http://askubuntu.com/*
 // @include        http://*.stackexchange.com/*
 // @include        http://mathoverflow.net/*
 // @exclude        http://area51.stackexchange.com/*
 // @version        2.0
 // @history        2.0 - Updated to work with the new header bar released in Dec, 2013, as well as to continue to show Stack Overflow flags. 
 // @history        2.0.1 - Name change: Moderator Experience - Show Flags in Stack Exchange Toolbars
+// @grant          none
 // ==/UserScript==
 
 function with_jquery(f) {
